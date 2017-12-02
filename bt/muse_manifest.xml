@@ -1,0 +1,115 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="http://www.superoo7.com/BrailleTranslator" resolutions="1x,2x" timestamp="1484099519671">
+  <folder name="css">
+    <file name="site_global.css" crc="4210660428"/>
+    <file name="master_pages-master.css" crc="3882538551" ref="about:contact:how-it-works:introduction:additional-assets:manual"/>
+    <file name="nomq_preview_master_pages-master.css" crc="3934190371" ref="about:contact:how-it-works:introduction:additional-assets:manual"/>
+    <file name="master_main-master.css" crc="3812846737" ref="about:contact:how-it-works:introduction:additional-assets:manual:index"/>
+    <file name="nomq_preview_master_main-master.css" crc="165155161" ref="about:contact:how-it-works:introduction:additional-assets:manual:index"/>
+    <file name="about.css" crc="4031504401" ref="about"/>
+    <file name="nomq_about.css" crc="4142726110" ref="about"/>
+    <file name="contact.css" crc="3959745987" ref="contact"/>
+    <file name="nomq_contact.css" crc="425875103" ref="contact"/>
+    <file name="how-it-works.css" crc="18301757" ref="how-it-works"/>
+    <file name="nomq_how-it-works.css" crc="50529039" ref="how-it-works"/>
+    <file name="introduction.css" crc="476119908" ref="introduction"/>
+    <file name="nomq_introduction.css" crc="4171567572" ref="introduction"/>
+    <file name="additional-assets.css" crc="4291175802" ref="additional-assets"/>
+    <file name="nomq_additional-assets.css" crc="305456814" ref="additional-assets"/>
+    <file name="manual.css" crc="4112903057" ref="manual"/>
+    <file name="nomq_manual.css" crc="4258723801" ref="manual"/>
+    <file name="index.css" crc="3804091545" ref="index"/>
+    <file name="nomq_index.css" crc="405963637" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="introduction:about:contact:index:additional-assets:how-it-works:manual"/>
+    <file name="museutils.js" crc="163421577" ref="introduction:about:contact:index:additional-assets:how-it-works:manual"/>
+    <file name="whatinput.js" crc="86476730" ref="introduction:about:contact:index:additional-assets:how-it-works:manual"/>
+    <file name="museconfig.js" crc="36584860" ref="introduction:about:contact:index:additional-assets:how-it-works:manual"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="introduction:about:how-it-works"/>
+    <file name="webpro.js" crc="3848665353" ref="introduction:about:contact:index:additional-assets:how-it-works:manual"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="introduction:about:contact:index:additional-assets:how-it-works:manual"/>
+    <file name="jquery.watch.js" crc="104486786" ref="introduction:about:contact:index:additional-assets:how-it-works:manual"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="introduction:about:contact:index:additional-assets:how-it-works:manual"/>
+    <file name="require.js" crc="244322403" ref="introduction:about:contact:index:additional-assets:how-it-works:manual"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
+    <file name="touchswipe.js" crc="404375771" ref="index"/>
+    <file name="form_check.php" crc="158155501" ref="additional-assets"/>
+    <file name="form_throttle.php" crc="3992970984" ref="additional-assets"/>
+    <file name="form_process.php" crc="4078697226" ref="additional-assets"/>
+    <file name="form-u45147.php" crc="4189539005" ref="additional-assets"/>
+  </folder>
+  <folder name="images">
+    <file name="icon-close-buttonu38422-fr.png" crc="234249188" ref="introduction"/>
+    <file name="icon-close-hover-buttonu38422-r-fr.png" crc="234249188" ref="introduction"/>
+    <file name="blank.gif" crc="4208392903" ref="introduction:about:contact:index:additional-assets:how-it-works:manual"/>
+    <file name="qooqeescalehover-u25087-fr.jpg" crc="3805851917" ref="introduction:how-it-works"/>
+    <file name="works01.jpg" crc="249699877" ref="introduction:how-it-works"/>
+    <file name="whatsapp image 2016-11-15 at 201134.jpg" crc="154582871" ref="introduction"/>
+    <file name="whatsapp image 2016-11-15 at 201157.jpg" crc="15146441" ref="introduction"/>
+    <file name="whatsapp image 2016-11-15 at 180359.jpg" crc="56470520" ref="about"/>
+    <file name="pasted image 531x83.jpg" crc="96081766" seo="true" ref="about"/>
+    <file name="927d3038-4661-49ae-bafd-e8e46bea036d.jpg" crc="3861623748" ref="about"/>
+    <file name="20160719learn03.jpg" crc="4103394392" seo="true" ref="about:index"/>
+    <file name="pasted image 531x83373x59.jpg" crc="404180299" seo="true" ref="about"/>
+    <file name="blind-u15199-fr.png" crc="279203819" seo="true" ref="index"/>
+    <file name="20160719learn04.jpg" crc="4281926005" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="icon-prev-u51962.png" crc="4025745814" ref="additional-assets"/>
+    <file name="icon-prev-u51962_2x.png" crc="3827736111" ref="additional-assets"/>
+    <file name="icon-prev-u51962-r.png" crc="116798146" ref="additional-assets"/>
+    <file name="icon-prev-u51962-r_2x.png" crc="4010469918" ref="additional-assets"/>
+    <file name="icon-next-u51961.png" crc="3842662785" ref="additional-assets"/>
+    <file name="icon-next-u51961_2x.png" crc="508254575" ref="additional-assets"/>
+    <file name="icon-next-u51961-r.png" crc="515942736" ref="additional-assets"/>
+    <file name="icon-next-u51961-r_2x.png" crc="350956463" ref="additional-assets"/>
+    <file name="icon-prev-u519622.png" crc="4025745814" ref="additional-assets"/>
+    <file name="icon-prev-u51962_2x2.png" crc="3827736111" ref="additional-assets"/>
+    <file name="icon-prev-u51962-r2.png" crc="116798146" ref="additional-assets"/>
+    <file name="icon-prev-u51962-r_2x2.png" crc="4010469918" ref="additional-assets"/>
+    <file name="icon-next-u519612.png" crc="3842662785" ref="additional-assets"/>
+    <file name="icon-next-u51961_2x2.png" crc="508254575" ref="additional-assets"/>
+    <file name="icon-next-u51961-r2.png" crc="515942736" ref="additional-assets"/>
+    <file name="icon-next-u51961-r_2x2.png" crc="350956463" ref="additional-assets"/>
+    <file name="icon-next-u519613.png" crc="3842662785" ref="additional-assets"/>
+    <file name="icon-next-u51961_2x3.png" crc="508254575" ref="additional-assets"/>
+    <file name="icon-next-u51961-r3.png" crc="515942736" ref="additional-assets"/>
+    <file name="icon-next-u51961-r_2x3.png" crc="350956463" ref="additional-assets"/>
+    <file name="icon-prev-u519623.png" crc="4025745814" ref="additional-assets"/>
+    <file name="icon-prev-u51962_2x3.png" crc="3827736111" ref="additional-assets"/>
+    <file name="icon-prev-u51962-r3.png" crc="116798146" ref="additional-assets"/>
+    <file name="icon-prev-u51962-r_2x3.png" crc="4010469918" ref="additional-assets"/>
+    <file name="icon-next-u519614.png" crc="3842662785" ref="additional-assets"/>
+    <file name="icon-next-u51961_2x4.png" crc="508254575" ref="additional-assets"/>
+    <file name="icon-next-u51961-r4.png" crc="515942736" ref="additional-assets"/>
+    <file name="icon-next-u51961-r_2x4.png" crc="350956463" ref="additional-assets"/>
+    <file name="icon-prev-u519624.png" crc="4025745814" ref="additional-assets"/>
+    <file name="icon-prev-u51962_2x4.png" crc="3827736111" ref="additional-assets"/>
+    <file name="icon-prev-u51962-r4.png" crc="116798146" ref="additional-assets"/>
+    <file name="icon-prev-u51962-r_2x4.png" crc="4010469918" ref="additional-assets"/>
+    <file name="pasted image 326x334.jpg" crc="3795113871" ref="how-it-works"/>
+    <file name="pasted image 395x362.jpg" crc="4257744399" ref="how-it-works"/>
+    <file name="pasted image 306x292.jpg" crc="428644207" ref="how-it-works"/>
+    <file name="hc-06.jpg" crc="3946020483" ref="how-it-works"/>
+    <file name="pasted image 311x218.jpg" crc="4170227409" ref="how-it-works"/>
+    <file name="pasted image 315x280.jpg" crc="66447738" ref="how-it-works"/>
+    <file name="pasted image 354x382.jpg" crc="330307268" ref="how-it-works"/>
+    <file name="pasted image 218x260.jpg" crc="4232116670" ref="how-it-works"/>
+    <file name="pasted image 357x352.jpg" crc="157474778" ref="how-it-works"/>
+    <file name="lithium-polymer-battery.jpg" crc="4171751737" ref="how-it-works"/>
+    <file name="braille translator552x268-crop-u63155.jpg" crc="3963123683" ref="how-it-works"/>
+    <file name="untitled-1.jpg" crc="329903357" seo="true" ref="how-it-works"/>
+    <file name="braille translator552x268-crop-u631552.jpg" crc="366342512" ref="how-it-works"/>
+    <file name="braille translator552x268-crop-u631553.jpg" crc="4061094695" ref="how-it-works"/>
+    <file name="untitled-1926x790.jpg" crc="4239224819" seo="true" ref="how-it-works"/>
+    <file name="braille translator552x268-crop-u631554.jpg" crc="1838130" ref="how-it-works"/>
+    <file name="untitled-1627x535.jpg" crc="121843926" seo="true" ref="how-it-works"/>
+  </folder>
+  <file name="introduction.html" crc="4266768886" seo="true" mt="1479250366010" redirect="true"/>
+  <file name="about.html" crc="122379076" seo="true" mt="1479250366010" redirect="true"/>
+  <file name="contact.html" crc="4251107058" seo="true" mt="1479250366010" redirect="true"/>
+  <file name="index.html" crc="363279141" seo="true" mt="1479258671341" redirect="true"/>
+  <file name="additional-assets.html" crc="370618671" seo="true" mt="1479250880801" redirect="true"/>
+  <file name="how-it-works.html" crc="65142253" seo="true" mt="1479250366010" redirect="true"/>
+  <file name="manual.html" crc="450587898" seo="true" mt="1479250366010" redirect="true"/>
+</manifest>

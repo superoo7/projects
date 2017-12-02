@@ -1,0 +1,204 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" ftp_hostname="ftp://www.superoo7.com/projects" ftp_rootfolder="/" exportTarget="FTP" domain="http://superoo7.com/projects" resolutions="1x,2x" timestamp="1485151476337">
+  <folder name="css">
+    <file name="site_global.css" crc="4210660428"/>
+    <file name="master_pages-master.css" crc="293233696" ref="additional-assets:introduction:survillence-system:contact:manufacturing-flow-chart:sensor:manual:application-page"/>
+    <file name="nomq_preview_master_pages-master.css" crc="3934190371" ref="additional-assets:introduction:survillence-system:contact:manufacturing-flow-chart:sensor:manual:application-page"/>
+    <file name="master_main-master.css" crc="4163075548" ref="additional-assets:introduction:survillence-system:contact:manufacturing-flow-chart:sensor:manual:application-page:index"/>
+    <file name="nomq_preview_master_main-master.css" crc="3866662880" ref="additional-assets:introduction:survillence-system:contact:manufacturing-flow-chart:sensor:manual:application-page:index"/>
+    <file name="additional-assets.css" crc="4154106403" ref="additional-assets"/>
+    <file name="nomq_additional-assets.css" crc="3880768780" ref="additional-assets"/>
+    <file name="introduction.css" crc="511382375" ref="introduction"/>
+    <file name="nomq_introduction.css" crc="441028567" ref="introduction"/>
+    <file name="survillence-system.css" crc="21832224" ref="survillence-system"/>
+    <file name="nomq_survillence-system.css" crc="14217041" ref="survillence-system"/>
+    <file name="contact.css" crc="4237452836" ref="contact"/>
+    <file name="nomq_contact.css" crc="4057045062" ref="contact"/>
+    <file name="manufacturing-flow-chart.css" crc="481426746" ref="manufacturing-flow-chart"/>
+    <file name="nomq_manufacturing-flow-chart.css" crc="149721088" ref="manufacturing-flow-chart"/>
+    <file name="sensor.css" crc="3913865279" ref="sensor"/>
+    <file name="nomq_sensor.css" crc="4028022146" ref="sensor"/>
+    <file name="manual.css" crc="282881115" ref="manual"/>
+    <file name="nomq_manual.css" crc="4272471880" ref="manual"/>
+    <file name="application-page.css" crc="3768388119" ref="application-page"/>
+    <file name="nomq_application-page.css" crc="526531842" ref="application-page"/>
+    <file name="index.css" crc="205459263" ref="index"/>
+    <file name="nomq_index.css" crc="3948216814" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="icon-maps-marker.png" crc="346752100" seo="true" mt="1474340232000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="application-page:introduction:contact:index:additional-assets:survillence-system:sensor:manual:manufacturing-flow-chart"/>
+    <file name="museutils.js" crc="163421577" ref="application-page:introduction:contact:index:additional-assets:survillence-system:sensor:manual:manufacturing-flow-chart"/>
+    <file name="whatinput.js" crc="86476730" ref="application-page:introduction:contact:index:additional-assets:survillence-system:sensor:manual:manufacturing-flow-chart"/>
+    <file name="museconfig.js" crc="36584860" ref="application-page:introduction:contact:index:additional-assets:survillence-system:sensor:manual:manufacturing-flow-chart"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="application-page:introduction"/>
+    <file name="webpro.js" crc="3848665353" ref="application-page:introduction:contact:index:additional-assets:survillence-system:sensor:manual:manufacturing-flow-chart"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="application-page:introduction:contact:index:additional-assets:survillence-system:sensor:manual:manufacturing-flow-chart"/>
+    <file name="jquery.watch.js" crc="104486786" ref="application-page:introduction:contact:index:additional-assets:survillence-system:sensor:manual:manufacturing-flow-chart"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="application-page:introduction:contact:index:additional-assets:survillence-system:sensor:manual:manufacturing-flow-chart"/>
+    <file name="require.js" crc="244322403" ref="application-page:introduction:contact:index:additional-assets:survillence-system:sensor:manual:manufacturing-flow-chart"/>
+    <file name="form_check.php" crc="158155501" ref="contact"/>
+    <file name="form_throttle.php" crc="3992970984" ref="contact"/>
+    <file name="form_process.php" crc="4078697226" ref="contact"/>
+    <file name="form-u353.php" crc="4032250143" ref="contact"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
+    <file name="touchswipe.js" crc="404375771" ref="index"/>
+    <file name="form-u45147.php" crc="4189539005" ref="additional-assets"/>
+  </folder>
+  <folder name="images">
+    <file name="icon-close-buttonu63768-fr.png" crc="234249188" ref="application-page"/>
+    <file name="icon-close-hover-buttonu63768-r-fr.png" crc="234249188" ref="application-page"/>
+    <file name="blank.gif" crc="4208392903" ref="application-page:introduction:contact:index:additional-assets:survillence-system:sensor:manual:manufacturing-flow-chart"/>
+    <file name="qooqeescalehover-u25087-fr.jpg" crc="3805851917" ref="application-page"/>
+    <file name="pasted-svg-41x37.svg" crc="516468456" seo="true" ref="application-page:survillence-system"/>
+    <file name="pasted svg 41x37_poster_.png" crc="3882416545" ref="application-page"/>
+    <file name="pasted-svg-37x41.svg" crc="430909022" seo="true" ref="application-page:sensor"/>
+    <file name="pasted svg 37x41_poster_.png" crc="237021390" ref="application-page"/>
+    <file name="14971960_1306224779399738_1951219765_n.jpg" crc="185583255" ref="introduction"/>
+    <file name="asd.jpg" crc="4231970171" ref="introduction"/>
+    <file name="14963509_10211049707982940_2065833283_o.jpg" crc="3787350595" ref="introduction"/>
+    <file name="14963509_10211049707982940_2065833283_o2.jpg" crc="293004462" ref="introduction"/>
+    <file name="14963509_10211049707982940_2065833283_o_2x.jpg" crc="3787350595" ref="introduction"/>
+    <file name="14958115_10211049708022941_671520383_o.jpg" crc="3813007033" seo="true" ref="index"/>
+    <file name="14963509_10211049707982940_2065833283_o (1).jpg" crc="3787350595" seo="true" ref="index"/>
+    <file name="15128570_1305545706134312_1133862325_n.jpg" crc="3922635447" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="icon-prev-u51962.png" crc="4025745814" ref="additional-assets"/>
+    <file name="icon-prev-u51962_2x.png" crc="3827736111" ref="additional-assets"/>
+    <file name="icon-prev-u51962-r.png" crc="116798146" ref="additional-assets"/>
+    <file name="icon-prev-u51962-r_2x.png" crc="4010469918" ref="additional-assets"/>
+    <file name="icon-next-u51961.png" crc="3842662785" ref="additional-assets"/>
+    <file name="icon-next-u51961_2x.png" crc="508254575" ref="additional-assets"/>
+    <file name="icon-next-u51961-r.png" crc="515942736" ref="additional-assets"/>
+    <file name="icon-next-u51961-r_2x.png" crc="350956463" ref="additional-assets"/>
+    <file name="icon-prev-u519622.png" crc="4025745814" ref="additional-assets"/>
+    <file name="icon-prev-u51962_2x2.png" crc="3827736111" ref="additional-assets"/>
+    <file name="icon-prev-u51962-r2.png" crc="116798146" ref="additional-assets"/>
+    <file name="icon-prev-u51962-r_2x2.png" crc="4010469918" ref="additional-assets"/>
+    <file name="icon-next-u519612.png" crc="3842662785" ref="additional-assets"/>
+    <file name="icon-next-u51961_2x2.png" crc="508254575" ref="additional-assets"/>
+    <file name="icon-next-u51961-r2.png" crc="515942736" ref="additional-assets"/>
+    <file name="icon-next-u51961-r_2x2.png" crc="350956463" ref="additional-assets"/>
+    <file name="icon-next-u519613.png" crc="3842662785" ref="additional-assets"/>
+    <file name="icon-next-u51961_2x3.png" crc="508254575" ref="additional-assets"/>
+    <file name="icon-next-u51961-r3.png" crc="515942736" ref="additional-assets"/>
+    <file name="icon-next-u51961-r_2x3.png" crc="350956463" ref="additional-assets"/>
+    <file name="icon-prev-u519623.png" crc="4025745814" ref="additional-assets"/>
+    <file name="icon-prev-u51962_2x3.png" crc="3827736111" ref="additional-assets"/>
+    <file name="icon-prev-u51962-r3.png" crc="116798146" ref="additional-assets"/>
+    <file name="icon-prev-u51962-r_2x3.png" crc="4010469918" ref="additional-assets"/>
+    <file name="icon-next-u519614.png" crc="3842662785" ref="additional-assets"/>
+    <file name="icon-next-u51961_2x4.png" crc="508254575" ref="additional-assets"/>
+    <file name="icon-next-u51961-r4.png" crc="515942736" ref="additional-assets"/>
+    <file name="icon-next-u51961-r_2x4.png" crc="350956463" ref="additional-assets"/>
+    <file name="icon-prev-u519624.png" crc="4025745814" ref="additional-assets"/>
+    <file name="icon-prev-u51962_2x4.png" crc="3827736111" ref="additional-assets"/>
+    <file name="icon-prev-u51962-r4.png" crc="116798146" ref="additional-assets"/>
+    <file name="icon-prev-u51962-r_2x4.png" crc="4010469918" ref="additional-assets"/>
+    <file name="pasted image 1280x1022640x511.jpg" crc="4217867294" seo="true" ref="manufacturing-flow-chart"/>
+    <file name="pasted image 1240x1018623x511.jpg" crc="4044638005" seo="true" ref="manufacturing-flow-chart"/>
+    <file name="pasted image 1306x1026653x513.jpg" crc="345720646" seo="true" ref="manufacturing-flow-chart"/>
+    <file name="pasted image 1322x1080661x540.jpg" crc="4007918407" seo="true" ref="manufacturing-flow-chart"/>
+    <file name="pasted image 1920x1080-crop-u62724.jpg" crc="534548204" ref="manufacturing-flow-chart"/>
+    <file name="pasted image 1920x1080-crop-u62739.jpg" crc="236019664" ref="manufacturing-flow-chart"/>
+    <file name="pasted image 1280x1022.jpg" crc="245143623" seo="true" ref="manufacturing-flow-chart"/>
+    <file name="pasted image 1240x1018.jpg" crc="3866230311" seo="true" ref="manufacturing-flow-chart"/>
+    <file name="pasted image 1306x1026.jpg" crc="187782061" seo="true" ref="manufacturing-flow-chart"/>
+    <file name="pasted image 1322x1080.jpg" crc="515020270" seo="true" ref="manufacturing-flow-chart"/>
+    <file name="pasted image 1920x1080-crop-u627242.jpg" crc="4125549458" ref="manufacturing-flow-chart"/>
+    <file name="pasted image 1920x1080-crop-u627392.jpg" crc="291998722" ref="manufacturing-flow-chart"/>
+    <file name="pasted image 1306x1026-crop-u62694.jpg" crc="62269672" ref="manufacturing-flow-chart"/>
+    <file name="pasted image 1322x1080-crop-u62709.jpg" crc="4063828375" ref="manufacturing-flow-chart"/>
+    <file name="pasted image 1920x1080-crop-u627243.jpg" crc="4125549458" ref="manufacturing-flow-chart"/>
+    <file name="pasted image 1920x1080-crop-u627393.jpg" crc="291998722" ref="manufacturing-flow-chart"/>
+    <file name="pasted image 1280x1022652x521.jpg" crc="4087155694" seo="true" ref="manufacturing-flow-chart"/>
+    <file name="pasted image 1240x1018650x534.jpg" crc="4133629258" seo="true" ref="manufacturing-flow-chart"/>
+    <file name="pasted image 1306x1026-crop-u626942.jpg" crc="4205736240" ref="manufacturing-flow-chart"/>
+    <file name="pasted image 1322x1080-crop-u627092.jpg" crc="59472175" ref="manufacturing-flow-chart"/>
+    <file name="pasted image 1920x1080-crop-u627244.jpg" crc="119997605" ref="manufacturing-flow-chart"/>
+    <file name="pasted image 1920x1080-crop-u627394.jpg" crc="3967707525" ref="manufacturing-flow-chart"/>
+  </folder>
+  <file name="application-page.html" crc="171136535" seo="true" mt="1480897690281" redirect="true"/>
+  <file name="introduction.html" crc="3768008877" seo="true" mt="1480897902997" redirect="true"/>
+  <file name="contact.html" crc="3954999431" seo="true" mt="1480897690281" redirect="true"/>
+  <file name="index.html" crc="3821030449" seo="true" mt="1480897690281" redirect="true"/>
+  <file name="additional-assets.html" crc="34976676" seo="true" mt="1480897690281" redirect="true"/>
+  <file name="survillence-system.html" crc="45456039" seo="true" mt="1480897690281" redirect="true"/>
+  <file name="sensor.html" crc="305142123" seo="true" mt="1480897690281" redirect="true"/>
+  <file name="manual.html" crc="3813915670" seo="true" mt="1480897690281" redirect="true"/>
+  <file name="manufacturing-flow-chart.html" crc="4028671041" seo="true" mt="1480897690281" redirect="true"/>
+  <site>
+    <asset filename="icon-maps-marker.png" muse_href="upload:U59556"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Application Page" filename="application-page.html" muse_href="page:U105" master="U4964">
+        <breakpoint uid="U36232" maxwidth="650" minwidth="0" squishy="true"/>
+        <breakpoint uid="U19297" maxwidth="960" minwidth="651" squishy="true"/>
+        <breakpoint uid="U17692" maxwidth="1375" minwidth="961" squishy="true"/>
+        <breakpoint uid="U95" maxwidth="1400" minwidth="1376" squishy="true"/>
+      </page>
+      <masterPage name="Pages Master" master="U72" uid="U4964">
+        <breakpoint uid="U35939" maxwidth="650" minwidth="0" squishy="true"/>
+        <breakpoint uid="U14757" maxwidth="960" minwidth="651" squishy="true"/>
+        <breakpoint uid="U14569" maxwidth="1375" minwidth="961" squishy="true"/>
+        <breakpoint uid="U4965" maxwidth="1400" minwidth="1376" squishy="true"/>
+      </masterPage>
+      <masterPage name="Main master" master="U62" uid="U72">
+        <breakpoint uid="U41015" maxwidth="650" minwidth="0" squishy="true"/>
+        <breakpoint uid="U40987" maxwidth="960" minwidth="651" squishy="true"/>
+        <breakpoint uid="U40959" maxwidth="1375" minwidth="961" squishy="true"/>
+        <breakpoint uid="U73" maxwidth="1400" minwidth="1376" squishy="true"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U62">
+        <breakpoint uid="U63" maxwidth="1400" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="Introduction" filename="introduction.html" muse_href="page:U117" master="U4964">
+        <breakpoint uid="U36638" maxwidth="650" minwidth="0" squishy="true"/>
+        <breakpoint uid="U33985" maxwidth="960" minwidth="651" squishy="true"/>
+        <breakpoint uid="U32833" maxwidth="1375" minwidth="961" squishy="true"/>
+        <breakpoint uid="U107" maxwidth="1400" minwidth="1376" squishy="true"/>
+      </page>
+      <page name="Contact" filename="contact.html" muse_href="page:U129" master="U4964">
+        <breakpoint uid="U35980" maxwidth="650" minwidth="0" squishy="true"/>
+        <breakpoint uid="U29063" maxwidth="960" minwidth="651" squishy="true"/>
+        <breakpoint uid="U29010" maxwidth="1375" minwidth="961" squishy="true"/>
+        <breakpoint uid="U119" maxwidth="1400" minwidth="1376" squishy="true"/>
+      </page>
+      <page name="Smart Aquarium" filename="index.html" muse_href="page:U10036" master="U72">
+        <breakpoint uid="U41368" maxwidth="650" minwidth="0" squishy="true"/>
+        <breakpoint uid="U41335" maxwidth="960" minwidth="651" squishy="true"/>
+        <breakpoint uid="U41302" maxwidth="1375" minwidth="961" squishy="true"/>
+        <breakpoint uid="U9994" maxwidth="1400" minwidth="1376" squishy="true"/>
+      </page>
+      <page name="Additional Assets" filename="additional-assets.html" muse_href="page:U13301" master="U4964">
+        <breakpoint uid="U13285" maxwidth="1400" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Survillence System" filename="survillence-system.html" muse_href="page:U60062" master="U4964">
+        <breakpoint uid="U60344" maxwidth="650" minwidth="0" squishy="true"/>
+        <breakpoint uid="U60331" maxwidth="960" minwidth="651" squishy="true"/>
+        <breakpoint uid="U60046" maxwidth="1400" minwidth="961" squishy="true"/>
+      </page>
+      <page name="Sensor" filename="sensor.html" muse_href="page:U61130" master="U4964">
+        <breakpoint uid="U61192" maxwidth="650" minwidth="0" squishy="true"/>
+        <breakpoint uid="U61198" maxwidth="960" minwidth="651" squishy="true"/>
+        <breakpoint uid="U61204" maxwidth="1375" minwidth="961" squishy="true"/>
+        <breakpoint uid="U61114" maxwidth="1400" minwidth="1376" squishy="true"/>
+      </page>
+      <page name="Manual" filename="manual.html" muse_href="page:U62187" master="U4964">
+        <breakpoint uid="U62353" maxwidth="650" minwidth="0" squishy="true"/>
+        <breakpoint uid="U62359" maxwidth="960" minwidth="651" squishy="true"/>
+        <breakpoint uid="U62365" maxwidth="1375" minwidth="961" squishy="true"/>
+        <breakpoint uid="U62171" maxwidth="1400" minwidth="1376" squishy="true"/>
+      </page>
+      <page name="Manufacturing Flow Chart" filename="manufacturing-flow-chart.html" muse_href="page:U62648" master="U4964">
+        <breakpoint uid="U62599" maxwidth="650" minwidth="0" squishy="true"/>
+        <breakpoint uid="U62638" maxwidth="960" minwidth="651" squishy="true"/>
+        <breakpoint uid="U62615" maxwidth="1375" minwidth="961" squishy="true"/>
+        <breakpoint uid="U62628" maxwidth="1400" minwidth="1376" squishy="true"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>
